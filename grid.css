@@ -60,11 +60,11 @@ div{
 
 .grid{
     margin: 0%;
-    background-color: black;
-    color: whitesmoke;
+    background-color: whitesmaoke;
+    color: black;
 }
 a{
-    color: white;
+    color: black;
 }
 
 button:hover{
