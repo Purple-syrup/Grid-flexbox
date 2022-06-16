@@ -96,19 +96,19 @@ button{
 }
 
 .ffb{
-    border:2px solid white;
+    border:3px solid white;
     /* margin-top: 22%; */
     color: hsl(31, 77%, 52%);
 }
 
 .ssb{
-    border:2px solid white;
+    border:3px solid white;
     color: hsl(184, 100%, 22%);
 }
 
 .ttb{
-    border:2px solid white;
-     margin-top: 18%; 
+    border:3px solid white;
+     margin-top: 15%; 
     color: hsl(179, 100%, 13%);
 }
 
