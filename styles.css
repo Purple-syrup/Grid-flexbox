@@ -109,6 +109,7 @@ button{
 .ttb{
     border:3px solid white;
      margin-top: 15%; 
+    margin-bottom: 10%;
     color: hsl(179, 100%, 13%);
 }
 
