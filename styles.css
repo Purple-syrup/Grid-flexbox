@@ -59,7 +59,7 @@ img{
 #ff button:hover{
     background-color: hsl(31, 77%, 52%);
     color: white;
-    border:2px white;
+    border-color:2px solid white;
 }
 
 #ss{
@@ -69,7 +69,7 @@ img{
 #ss button:hover{
     background-color: hsl(184, 100%, 22%);
     color: white;
-    border:2px white;
+    border-color:2px solid white;
 }
 
 #tt{
@@ -81,7 +81,7 @@ img{
 #tt button:hover{
     background-color: hsl(179, 100%, 13%);
     color: white;
-    border:2px white;
+    border-color:2px solid white;
 }
 
 button{
