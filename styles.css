@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0e0e0e;
+    margin:15vh 15vw;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    place-items: center;
+}
+
+main{
+    font-size: 15px;
+    margin: auto;
+    background-color: hsl(0, 0%, 95%);
+    padding: 8% 10%;
+
+}
+.bigdiv{
+    display: flex;
+    border-radius: 10px;
+    
+}
+
+h2{
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    font-family: Big Shoulders Display;
+    
+}
+
+.bigdiv div{
+    padding: 2em;
+    justify-content: left;
+}
+.bigdiv p{
+    font-family: Lexend Deca;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400;
+    padding: 2em 0em;
+}
+
+img{
+    padding: 1em;
+}
+
+#ff{
+
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: hsl(31, 77%, 52%);
+}
+
+#ss{
+    background-color: hsl(184, 100%, 22%);
+}
+
+#tt{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: hsl(179, 100%, 13%);
+}
+
+button{
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    padding: auto;
+    border-radius: 20px;
+    place-items: center;
+    padding: 7px;
+    border: none;
+    margin-top: 20%;
+}
+
+.ffb{
+    /* margin-top: 22%; */
+    color: hsl(31, 77%, 52%);
+}
+
+.ssb{
+    color: hsl(184, 100%, 22%);
+}
+
+.ttb{
+    /* margin-top: 20%; */
+    color: hsl(179, 100%, 13%);
+}
+
+.grid{
+    margin: 0%;
+    background-color: black;
+    color: whitesmoke;
+}
+a{
+    color: white;
+}
+
+button:hover{
+    background-color: #0e0e0e;
+}
